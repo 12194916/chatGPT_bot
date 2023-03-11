@@ -1,0 +1,5 @@
+telebot
+openai 
+gTTS
+SpeechRecognition
+pydub
