@@ -1,4 +1,4 @@
---upgrade pip
+
 telebot
 
 openai 
