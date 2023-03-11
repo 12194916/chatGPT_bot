@@ -1,0 +1,6 @@
+telebot
+pip==21.3.1
+-q openai 
+gTTS
+SpeechRecognition
+pydub
