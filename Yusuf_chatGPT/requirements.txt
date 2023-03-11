@@ -1,6 +1,6 @@
 --upgrade pip
 telebot
-pip==21.3.1
+
 openai 
 gTTS
 SpeechRecognition
