@@ -6,12 +6,12 @@ import io
 from pydub import AudioSegment
 from gtts import gTTS
 
-openai.api_key = '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'
+openai.api_key = '........'
 messages = [
     {"role": "system", "content": "You are a kind helpful assistant."},
 ]
 
-TOKEN = '6177524583:AAGL89Gh-7aiKHaqkXfu-FccWYSuVWbNdEo'
+TOKEN = '....'
 bot = telebot.TeleBot(TOKEN, parse_mode=None)
 
 # Create a recognizer object
