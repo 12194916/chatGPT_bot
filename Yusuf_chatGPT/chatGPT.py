@@ -31,10 +31,7 @@ language and generate responses that aim to help and assist users in various tas
 and inquiries. I was designed to utilize sophisticated algorithms and machine  learning 
 techniques to provide high-quality responses that simulate human-like interactions. 
 So, you can think of me as a virtual assistant or a digital aide that is always here to 
-assist you with anything you need. 
-
--Yuldashev Mukhammadyusuf from Uzbekistan deployed me as a telegram bot. Officially, I am not available 
-in some countries. But as a telegram bot, I can reach you all.  Please pray for him and his family.'''
+assist you with anything you need.'''
     bot.reply_to(message, javob)
 
 @bot.message_handler(content_types=['voice'])
